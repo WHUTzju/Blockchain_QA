@@ -15,18 +15,13 @@
 # import os
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
-# from recommonmark.parser import CommonMarkParser
-
-# source_parsers = {
-#     '.md': CommonMarkParser,
-# }
 
 
 # -- Project information -----------------------------------------------------
 
-project = u'趣链科技FQA'
-copyright = u'2018, Hyperchain Corp'
-author = u'Hyperchain Corp'
+project = u'趣链科技FAQ'
+copyright = u'2018, hyperchain Application'
+author = u'hyperchain Application'
 
 # The short X.Y version
 version = u''
@@ -52,8 +47,8 @@ templates_path = ['_templates']
 # The suffix(es) of source filenames.
 # You can specify multiple suffix as a list of string:
 #
-source_suffix = ['.rst', '.md']
-# source_suffix = '.rst'
+# source_suffix = ['.rst', '.md']
+source_suffix = '.rst'
 
 # The master toctree document.
 master_doc = 'index'
@@ -68,7 +63,7 @@ language = u'zh_CN'
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path .
-# exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
+exclude_patterns = [u'_build', 'Thumbs.db', '.DS_Store']
 
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'
@@ -114,7 +109,7 @@ html_sidebars = {
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'FQAdoc'
+htmlhelp_basename = 'FAQdoc'
 
 
 # -- Options for LaTeX output ------------------------------------------------
@@ -141,8 +136,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'FQA.tex', u'趣链科技FQA Documentation',
-     u'Hyperchain Corp', 'manual'),
+    (master_doc, 'FAQ.tex', u'趣链科技FAQ Documentation',
+     u'hyperchain Application', 'manual'),
 ]
 
 
@@ -151,7 +146,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'fqa', u'趣链科技FQA Documentation',
+    (master_doc, 'faq', u'趣链科技FAQ Documentation',
      [author], 1)
 ]
 
@@ -162,7 +157,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'FQA', u'趣链科技FQA Documentation',
-     author, 'FQA', 'One line description of project.',
+    (master_doc, 'FAQ', u'趣链科技FAQ Documentation',
+     author, 'FAQ', 'One line description of project.',
      'Miscellaneous'),
 ]
