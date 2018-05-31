@@ -21,6 +21,14 @@ Hyperchain FQA
    contract_java
    contract_solc
 
+.. toctree::
+   :maxdepth: 2
+   :caption: 解决方案:
+
+   solution
+   hypervision
+
+
 .. Indices and tables
 .. ==================
 
