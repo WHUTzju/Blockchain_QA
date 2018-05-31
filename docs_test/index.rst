@@ -8,25 +8,18 @@ Hyperchain FQA
 
 .. toctree::
    :maxdepth: 2
-   :caption: Hyperchain2FQA:
+   :caption: hyperchain:
 
    hyperchain2
-   solidity
-
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Hyperchain4FQA:
-
    hyperchain4
-   solidity
+
 
 .. toctree::
    :maxdepth: 2
-   :caption: java智能合约:
+   :caption: 智能合约:
 
-   blockchain_use
-   solidity
+   contract_java
+   contract_solc
 
 .. Indices and tables
 .. ==================
