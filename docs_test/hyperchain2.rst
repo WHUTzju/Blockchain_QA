@@ -12,8 +12,6 @@ Hyperchain平台支持可插拔的共识机制，可以针对区块链的不同�
 Byzantine Fault
 Tolerance），其算法构思来源于多篇论文(尤其是\ `Aardvark <https://www.usenix.org/legacy/event/nsdi09/tech/full_papers/clement/clement.pdf>`__)，后续将陆续支持RAFT等共识算法。
 
-客户端发送交易到Hyperchain平台，API层解析出交易后转发给共识模块，共识模块接收并缓存交易到本地的交易池（TxPool）中，交易池承担着缓存交易与打包区块的作用，因此是作为共识模块的子模块实现的。另外，共识模块还需要维护一个共识的数据库，用于存储算法所需的变量以便宕机后的自主恢复，例如RBFT算法需要维护视图，PrePrepare，Prepare，Commit等共识信息。
-
 Q:**主节点阻塞住了，或因为某些因素的影响，性能变差，怎么办?**
 
 A:Hyperchain平台的节点都有自己的ID，正常共识情况下，平台会根据ID的顺序定时轮换主节点。
