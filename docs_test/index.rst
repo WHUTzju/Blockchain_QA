@@ -9,26 +9,26 @@ Hyperchain FQA
 具体问题可在 `腾讯文档 <https://docs.qq.com/sheet/BqI21X2yZIht1LEkVS2slNCx2wZsd60tpJYc40nnE61t7mSW1IQmKC2Cjyb92px1aI32ooGK1dGcdB0f4hN42/>`__ 上提出。
 
 .. toctree::
-:maxdepth: 2
-      :caption: 区块链平台:
+   :maxdepth: 2
+   :caption: 区块链平台:
 
-      hyperchain2
-      hyperchain4
+   hyperchain2
+   hyperchain4
 
-
-.. toctree::
-:maxdepth: 2
-      :caption: 智能合约:
-
-      contract_java
-      contract_solc
 
 .. toctree::
-:maxdepth: 2
-      :caption: 解决方案:
+   :maxdepth: 2
+   :caption: 智能合约:
 
-      solution
-      hypervision
+   contract_java
+   contract_solc
+
+.. toctree::
+   :maxdepth: 2
+   :caption: 解决方案:
+
+   solution
+   hypervision
 
 
 .. Indices and tables
