@@ -3,24 +3,14 @@
 JAVA 智能合约
 ===========
 
-1. 前言
+更多的JAVA智能合约内容请参考 `JAVA合约 <https://blog.hyperchain.cn/jvm/>`__
+1. HyperJVM执行引擎简介
 -------
 
-概述
-更多的JAVA智能合约内容请参考 `JAVA合约 <https://blog.hyperchain.cn/jvm/>`__
-
-
-2. 应用场景
----------------
 
 
 
-3. 架构设计
----------------
 
-
-常规流程
-~~~~~~~~
 
 
 
