@@ -8,17 +8,17 @@ Hyperchain FQA
 
 .. toctree::
    :maxdepth: 2
-   :caption: Hyperchain相关:
+   :caption: Hyperchain2相关:
 
-   blockchain_use
+   hyperchain2
    solidity
 
 
 .. toctree::
    :maxdepth: 2
-   :caption: solidity相关:
+   :caption: Hyperchain4相关:
 
-   blockchain_use
+   hyperchain4
    solidity
 
 .. toctree::
