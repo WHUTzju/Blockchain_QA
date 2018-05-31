@@ -8,7 +8,7 @@ Hyperchain FQA
 
 .. toctree::
    :maxdepth: 2
-   :caption: Hyperchain2相关:
+   :caption: Hyperchain2FQA:
 
    hyperchain2
    solidity
@@ -16,7 +16,7 @@ Hyperchain FQA
 
 .. toctree::
    :maxdepth: 2
-   :caption: Hyperchain4相关:
+   :caption: Hyperchain4FQA:
 
    hyperchain4
    solidity
