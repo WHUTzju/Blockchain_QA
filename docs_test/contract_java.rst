@@ -7,7 +7,7 @@ JAvA 智能合约
 -------
 
 概述
-更多的JAVA智能合约内容请参考 `JAVA合约 <http://www.baidu.,com>`__
+更多的JAVA智能合约内容请参考 `JAVA合约 <https://blog.hyperchain.cn/jvm/>`__
 
 
 2. 应用场景
