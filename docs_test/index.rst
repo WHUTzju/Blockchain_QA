@@ -1,9 +1,9 @@
-.. 趣链科技FQA documentation master file, created by
+.. 趣链科技FAQ documentation master file, created by
    sphinx-quickstart on Wed May 30 22:03:48 2018.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Hyperchain FQA
+Hyperchain FAQ
 =======================================
 趣链科技区块链平台Hyperchain及智能合约相关问题汇总，并且提供区块链在各种应用场景下的解决方案，欢迎大家积极提问！
 具体问题可在 `腾讯文档 <https://docs.qq.com/sheet/BqI21X2yZIht1LEkVS2slNCx2wZsd60tpJYc40nnE61t7mSW1IQmKC2Cjyb92px1aI32ooGK1dGcdB0f4hN42#yg70sl/>`__ 上提出。
