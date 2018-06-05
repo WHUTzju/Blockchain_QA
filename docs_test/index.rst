@@ -6,7 +6,7 @@
 Hyperchain FAQ
 =======================================
 趣链科技区块链平台Hyperchain及智能合约相关问题汇总，并且提供区块链在各种应用场景下的解决方案，欢迎大家积极提问！
-具体问题可在 `腾讯文档 <https://docs.qq.com/sheet/BqI21X2yZIht1LEkVS2slNCx2wZsd60tpJYc40nnE61t7mSW1IQmKC2Cjyb92px1aI32ooGK1dGcdB0f4hN42#yg70sl/>`__ 上提出。
+具体问题可在 `趣链科技在线FAQ平台 <http://139.219.65.157:8081/#//>`__ 上提出。
 
 
 .. toctree::
